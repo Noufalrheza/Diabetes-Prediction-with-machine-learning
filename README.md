@@ -50,7 +50,7 @@ diabetes-prediction-app/
 ├── app.py               # Main file to run the Streamlit app
 ├── dataset/             # Folder containing the Kaggle dataset (optional, if used locally)
 ├── README.md            # Project documentation (this file)
-
+```
 ##Libraries Used
 -Streamlit (for building the web application)
 -Pandas (for data manipulation)
