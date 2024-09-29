@@ -51,13 +51,13 @@ diabetes-prediction-app/
 ├── dataset/             # Folder containing the Kaggle dataset (optional, if used locally)
 ├── README.md            # Project documentation (this file)
 ```
-##Libraries Used
+## Libraries Used
 -Streamlit (for building the web application)
 -Pandas (for data manipulation)
 -Scikit-learn (for model building)
 
-##Notes
+## Notes
 Ensure that you have Python installed before running the app.
 
-##Acknowledgments
+## Acknowledgments
 The dataset is provided by Mustafa Tz on Kaggle.
